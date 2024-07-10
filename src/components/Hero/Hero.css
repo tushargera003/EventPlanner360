@@ -1,0 +1,39 @@
+/* Hero Section Styles */
+.hero {
+    background-color: #1f65e7; /* Same as header background color */
+    color: #ffffff; /* White text color */
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .hero-content button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #ff6347; /* Adjusted button background color */
+    color: #ffffff; /* Adjusted button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-content button:hover {
+    background-color: #e6e6e6;
+    color: #020064;
+    /* Light gray button background on hover */
+  }

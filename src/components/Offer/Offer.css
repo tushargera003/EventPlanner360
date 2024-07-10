@@ -1,0 +1,40 @@
+.services {
+    background-color: #ffffff;
+    /* White background */
+    padding: 100px 0;
+    /* Adjusted padding */
+    text-align: center;
+}
+
+.services-content {
+    max-width: 800px;
+    /* Adjusted maximum width */
+    margin: 0 auto;
+}
+
+.services-content h2 {
+    font-size: 2.5rem;
+    /* Adjusted heading font size */
+    margin-bottom: 40px;
+    /* Increased margin bottom */
+}
+
+.service {
+    margin-bottom: 30px;
+}
+
+.service h3 {
+    font-size: 2rem;
+    /* Adjusted service title font size */
+    margin-bottom: 10px;
+    /* Adjusted margin bottom for service title */
+}
+
+.service p {
+    font-size: 1.2rem;
+    /* Adjusted paragraph font size */
+    line-height: 1.6;
+    /* Adjusted line height */
+    margin-bottom: 20px;
+    /* Adjusted margin bottom for paragraphs */
+}

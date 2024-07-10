@@ -1,0 +1,29 @@
+.about {
+    background-color: var(--background-color);
+    padding: 100px 0;
+    text-align: center;
+}
+
+.about-content {
+    max-width: 800px;
+    /* Adjusted maximum width */
+    margin: 0 auto;
+}
+
+.about-content h2 {
+    font-size: 2.5rem;
+    /* Adjusted heading font size */
+    margin-bottom: 20px;
+    color: var(--main-color);
+    /* Using main color variable */
+}
+
+.about-content p {
+    font-size: 1.2rem;
+    /* Adjusted paragraph font size */
+    line-height: 1.6;
+    /* Adjusted line height */
+    margin-bottom: 30px;
+    color: var(--text-color);
+    /* Using text color variable */
+}
